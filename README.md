@@ -4,7 +4,7 @@ Naomi Kunoichi Library were used by a number of games developed by third parties
 The only known SDK can be identified by strings `Kunoichi SDK 2.02` and as of today the CD surfaced on Yahoo Auctions Japan bought by an unknown collector. 
 
 
-## Kunoichi Library Games Developed:
+## Kunoichi Games:
 
 | Game Title                                      
 | ------------------------------------------
